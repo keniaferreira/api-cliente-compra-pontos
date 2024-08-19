@@ -23,7 +23,7 @@
 
 ## 005 - Cliente-ResgatarPremio(POST): /api/clientes/{$idCliente}/resgatar
 
-## 006 - Cliente-Pontuar: /clientes/{$idCliente}/pontuar
+## 006 - Cliente-Pontuar(POST): /clientes/{$idCliente}/pontuar
 
 # Foi criada a seguinte rota web para testar o job App\Jobs\NotificarClientePontosResgate: 
 
