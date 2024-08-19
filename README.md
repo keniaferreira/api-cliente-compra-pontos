@@ -9,7 +9,7 @@
 
 # API Programa De Fidelidade
 
-# Endpoints Disponiveis:
+# Endpoints Disponíveis:
 
 ## 001 - Cliente-Cadastrar(POST): /api/clientes
 
@@ -21,7 +21,7 @@
 
 ## 005 - Cliente-ResgatarPremio(POST): /api/clientes/{$idCliente}/resgatar
 
-## 006 - Cliente-Pontuar(POST): /clientes/{$idCliente}/pontuar
+## 006 - Cliente-Pontuar(POST): /api/clientes/{$idCliente}/pontuar
 
 # Foi criada a seguinte rota web para testar o job App\Jobs\NotificarClientePontosResgate: 
 
