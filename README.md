@@ -11,8 +11,6 @@
 
 # Endpoints Disponiveis:
 
-# Endpoints Disponiveis: 
-
 ## 001 - Cliente-Cadastrar(POST): /api/clientes
 
 ## 002 - Cliente-VerCliente(GET): /api/clientes/{$idCliente}
