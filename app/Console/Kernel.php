@@ -22,6 +22,8 @@ class Kernel extends ConsoleKernel
         //2 - Ao abrir o arquivo, inserir a linha ao final:
         //* * * * * cd /caminho/para/seu/projeto && php artisan schedule:run >> /dev/null 2>&1
         $schedule->job(new NotificarClientePontosResgate)->daily();
+        //->everyTwoHours()
+        //->everyFiveMinutes();
     }
 
     /**

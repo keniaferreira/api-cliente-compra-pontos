@@ -35,7 +35,7 @@
     </div>
     <div class="content">
         <p>Parabéns! Você tem pontos suficientes para resgatar prêmio(s) em nosso programa de fidelidade.</p>
-        <p>Venha nos fazer uma visita assim que possível para ralizar o resgate!</p>
+        <p>Venha nos fazer uma visita, assim que possível, para realizar o resgate!</p>
     </div>
 </body>
 </html>
